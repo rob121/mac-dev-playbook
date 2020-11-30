@@ -1,1 +1,7 @@
 dotfiles_repo: https://github.com/rob121/dotfiles.git
+
+mas_installed_apps:
+  - { id: 926036361, name: "Last Pass" }
+  - { id: 498486288, name: "Quick Resizer" }
+  - { id: 557168941, name: "Tweetbot" }
+  - { id: 497799835, name: "Xcode" }
