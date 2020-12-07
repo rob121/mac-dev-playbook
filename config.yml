@@ -13,7 +13,16 @@ mas_installed_apps:
 
 homebrew_cask_apps:
   - chromedriver
+  - bitbar
+  - google-chrome
+  - goland
+  - favro
+  - iterm2
   - docker
   - handbrake
   - transmit
   - vagrant
+  - notable
+  - postman
+  - viscosity
+  - vlc
