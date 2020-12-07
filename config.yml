@@ -26,3 +26,34 @@ homebrew_cask_apps:
   - postman
   - viscosity
   - vlc
+
+
+
+homebrew_installed_packages:
+  # - ansible # Installed via Pip.
+  - autoconf
+  - bash-completion
+  - doxygen
+  - gettext
+  - gifsicle
+  - git
+  - github/gh/gh
+  - go
+  - jq
+  - gpg
+  - httpie
+  - iperf
+  - libevent
+  - sqlite
+  - mcrypt
+  - nmap
+  - node
+  - nvm
+  - php
+  - ssh-copy-id
+  - cowsay
+  - readline
+  - openssl
+  - pv
+  - wget
+  - wrk
