@@ -9,3 +9,4 @@ mas_installed_apps:
   - { id: 405399194, name: "Kindle" }
   - { id: 472226235, name: "LanScan" }
   - { id: 1176074088, name: "Termius - SSH client" }
+  - { id: 803453959, name: "Slack" }
