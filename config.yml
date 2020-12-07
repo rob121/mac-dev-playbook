@@ -1,8 +1,6 @@
 dotfiles_repo: https://github.com/rob121/dotfiles.git
 
 mas_installed_apps:
-  - { id: 926036361, name: "Last Pass" }
-  - { id: 1354318707, name: "Core Tunnel 2.5.1" }
   - { id: 497799835, name: "Xcode" }
   - { id: 595191960, name: "Copy Clip" }
   - { id: 1298486723, name: "Filezilla" }
@@ -10,3 +8,12 @@ mas_installed_apps:
   - { id: 472226235, name: "LanScan" }
   - { id: 1176074088, name: "Termius - SSH client" }
   - { id: 803453959, name: "Slack" }
+  - { id: 926036361, name: "Last Pass" }
+  - { id: 1354318707, name: "Core Tunnel 2.5.1" }
+
+homebrew_cask_apps:
+  - chromedriver
+  - docker
+  - handbrake
+  - transmit
+  - vagrant
