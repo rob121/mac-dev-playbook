@@ -15,6 +15,7 @@ homebrew_cask_apps:
   - chromedriver
   - bitbar
   - google-chrome
+  - google-drive-file-stream
   - goland
   - favro
   - iterm2
