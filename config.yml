@@ -11,7 +11,7 @@ mas_installed_apps:
   - { id: 1354318707, name: "Core Tunnel 2.5.1" }
 
 homebrew_cask_apps:
-  - filezilla
+  - cyberduck
   - chromedriver
   - bitbar
   - google-chrome
