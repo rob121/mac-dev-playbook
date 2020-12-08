@@ -21,6 +21,7 @@ homebrew_cask_apps:
   - docker
   - handbrake
   - transmit
+  - paragon-ntfs
   - vagrant
   - notable
   - postman
