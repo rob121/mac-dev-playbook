@@ -10,5 +10,5 @@
 - name: Install Yubiswitch
   shell: |
      hdiutil attach /tmp/yubiswitch.dmg
-     cp /Volumes/yubiswitch/yubiswitch.app /Applications/
+     cp -rf /Volumes/yubiswitch/yubiswitch.app /Applications/
      hdiutil detach /Volumes/yubiswitch
