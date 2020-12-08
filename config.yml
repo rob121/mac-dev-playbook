@@ -24,6 +24,7 @@ homebrew_cask_apps:
   - vagrant
   - notable
   - postman
+  - displaylink
   - viscosity
   - vlc
 
