@@ -1,3 +1,14 @@
 - name: Install Display Link Cask
   shell: |
     brew cask install https://raw.githubusercontent.com/Homebrew/homebrew-cask-drivers/master/Casks/displaylink.rb
+   
+- name: Download yubiswitch
+  get_url:
+    url: https://github.com/pallotron/yubiswitch/releases/download/v0.12/yubiswitch_0.12.dmg
+    dest: /tmp/yubiswitch.dmg
+
+- name: Install Yubiswitch
+  shell: |
+     hdiutil attach /tmp/yubiswitch.dmg
+     cp /Volumes/yubiswitch/yubiswitch.app /Applications/
+     hdiutil detach /Volumes/yubiswitch
