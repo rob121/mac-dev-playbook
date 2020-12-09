@@ -1,6 +1,10 @@
 - name: Install Display Link Cask
   shell: |
     brew cask install https://raw.githubusercontent.com/Homebrew/homebrew-cask-drivers/master/Casks/displaylink.rb
+ 
+- name: Install Coda Cask
+  shell: |
+    brew cask install https://raw.githubusercontent.com/Homebrew/homebrew-cask/master/Casks/coda.rb
    
 - name: Download yubiswitch
   get_url:
