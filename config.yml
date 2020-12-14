@@ -42,6 +42,7 @@ homebrew_installed_packages:
   - git
   - github/gh/gh
   - go
+  - lrzsz
   - jq
   - gpg
   - httpie
